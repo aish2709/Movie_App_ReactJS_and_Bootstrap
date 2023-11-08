@@ -37,6 +37,7 @@
   }
 }
 
+/* Banner Page */
 .banner-card{
   width: 100vw;
   margin-top: 1vh;
@@ -66,6 +67,8 @@ left: 5vw;
   margin-right: 5vw;
 }
 
+
+/* Movies Page */
 .movies-list{
   display: flex;
   flex-wrap: wrap;
@@ -94,6 +97,15 @@ left: 5vw;
   height:40vh;
   width:20vw;
 }
+
+/* Favourites Page */
+.favourites-genres{
+padding:3rem;
+}
+.favourites-table{
+  padding:3rem;
+}
+
 
 @media screen and (max-width:400px){
   .banner-card{
