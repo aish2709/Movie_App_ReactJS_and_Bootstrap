@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+
+![Movies App](https://github.com/aish2709/Movie_App_ReactJS_and_Bootstrap/assets/57962329/49a0a3c0-3c4f-4658-873c-d072976eac29)
+
+Website Link: https://statuesque-choux-22c5ce.netlify.app/
+A movie app with a Home Page and Favorites section.  
+Features include: Searching, Sorting, Filtering, API Calls, Pagination, Bootstrap used, LocalStorage, Routing, Lifecycle Methods,
+
+The home page section contains all the top-rated movies fetched by API calls and has a feature to remove or add a particular film to favorites. 
+
+The favorites section has a genre filter table, search, sort, and row count feature to customize the table according to user needs. A pagination feature is also applied.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
